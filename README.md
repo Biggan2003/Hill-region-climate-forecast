@@ -72,7 +72,7 @@ MIT License - Free to use for research and commercial purposes
 
 ## Links
 - Kaggle Notebook: https://www.kaggle.com/code/gmbiggan/predicting-climate-change-in-hill-region
-- Kaggle Dataset: [https://www.kaggle.com/datasets/your-username/historic-climate-data-hill-region](https://www.kaggle.com/datasets/gmbiggan/historic-climate-data-hill-regian)
+- Kaggle Dataset: https://www.kaggle.com/datasets/gmbiggan/historic-climate-data-hill-regian
 
 ## Author
 G. M. Biggan
