@@ -2,6 +2,8 @@
 
 Live host link:https://my-climate-forecast.streamlit.app/
 
+<img width="1289" height="656" alt="image" src="https://github.com/user-attachments/assets/03690e52-e1c9-4f76-844c-b5734f31c6c0" />
+
 ## Project Overview
 This project analyzes 45 years of daily climate data (1981-2025) from a Hill Region and generates yearly forecasts up to 2060 using multiple time series models.
 
